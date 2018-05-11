@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\ParallelPI\ParallelPI\ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\ParallelPI\ParallelPI\stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\ParallelPI\ParallelPI\targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\ParallelPI\ParallelPI\MainFrm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\ParallelPI\ParallelPI\Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\ParallelPI\ParallelPI\PropertiesWnd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\ParallelPI\ParallelPI\ScreenImage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\ParallelPI\ParallelPI\Base64Encoder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\ParallelPI\ParallelPI\CntrItem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ParallelPI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ParallelPIDoc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ParallelPIView.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\ParallelPI\ParallelPI\stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ParallelPI\ParallelPI\MainFrm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ParallelPI\ParallelPI\PropertiesWnd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ParallelPI\ParallelPI\ScreenImage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ParallelPI\ParallelPI\Base64Encoder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ParallelPI\ParallelPI\CntrItem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ParallelPI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ParallelPIDoc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ParallelPIView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="..\..\ParallelPI\ParallelPI\ParallelPI.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\ParallelPI\ParallelPI\res\output_wnd.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\ParallelPI\ParallelPI\res\output_wnd_hc.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\ParallelPI\ParallelPI\res\properties_wnd.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\ParallelPI\ParallelPI\res\properties_wnd_hc.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\ParallelPI\ParallelPI\res\properties.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\ParallelPI\ParallelPI\res\properties_hc.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\ParallelPI\ParallelPI\res\info.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\ParallelPI\ParallelPI\res\buttons.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\ParallelPI\ParallelPI\res\filelarge.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\ParallelPI\ParallelPI\res\filesmall.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\ParallelPI\ParallelPI\res\main.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\ParallelPI\ParallelPI\res\writelarge.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\ParallelPI\ParallelPI\res\writesmall.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\ParallelPI\ParallelPI\res\ParallelPIDoc.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\ParallelPI\ParallelPI\res\ParallelPI.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\ParallelPI\ParallelPI\res\Toolbar.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\ParallelPI\ParallelPI\res\Toolbar256.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\ParallelPI\ParallelPI\res\ribbon.mfcribbon-ms">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\..\ParallelPI\ParallelPI\res\ParallelPI.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\..\ParallelPI\ParallelPI\res\ribbon1.mfcribbon-ms">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
